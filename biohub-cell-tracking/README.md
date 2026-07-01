@@ -1,3 +1,19 @@
-# biohub-cell-tracking
+# BioHub Cell Tracking Challenge
 
-Project structure for a cell tracking workflow.
+## Goal
+
+Learn computer vision and deep learning by competing in the BioHub Cell Tracking Kaggle competition.
+
+## Project Structure
+
+- data/
+- notebooks/
+- src/
+- models/
+- outputs/
+
+## Setup
+
+python -m venv .venv
+
+pip install -r requirements.txt
