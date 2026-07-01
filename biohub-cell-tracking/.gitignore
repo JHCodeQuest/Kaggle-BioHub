@@ -3,3 +3,24 @@ __pycache__/
 *.ipynb_checkpoints/
 .env
 .DS_Store
+# Virtual Environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Model files
+models/
+
+# Outputs
+outputs/
+
+# Processed data
+data/processed/
